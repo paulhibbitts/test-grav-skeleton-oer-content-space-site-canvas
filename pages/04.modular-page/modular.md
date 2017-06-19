@@ -5,6 +5,7 @@ content:
     order:
         by: default
         dir: asc
+published: false
 hide_git_repo_link: false
 external_links:
     process: true
