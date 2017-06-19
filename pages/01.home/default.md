@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 'OER Content Page'
 hide_git_repo_link: false
 ---
 
