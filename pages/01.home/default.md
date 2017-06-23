@@ -8,7 +8,7 @@ hide_git_repo_link: false
 ![](OER-banner-2.png)  
 
 ### What is OER?
-Open educational resources (OER) are free and openly licensed educational materials that can be used for teaching, learning, research, and other purposes.
+Open educational resources (OER) are free and openly licensed educational materials that can be used for teaching, learning, research, and other purposes. Example desktop edit.
 
 Open Education "...is the simple and powerful idea that the world’s knowledge is a public good and that technology in general and the Web in particular provide an extraordinary opportunity for everyone to share, use, and reuse knowledge."
 — [The William and Flora Hewlett Foundation](http://www.hewlett.org/programs/education-program/open-educational-resources)
